@@ -1,4 +1,4 @@
-# Practica-ICC
+# Proyecto-ICC
 
 García Villa Nelson Osmar - 322190357
 Ruiz Ruiz Angel - 425007158
