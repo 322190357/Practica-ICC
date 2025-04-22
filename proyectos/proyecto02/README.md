@@ -1,8 +1,5 @@
 # Proyecto-ICC
 
-García Villa Nelson Osmar - 322190357
-Ruiz Ruiz Angel - 425007158
-
 #Breve descripción de la estructura del proyecto.
 Este proyecto es un programa en Java llamado Esteganografía, que permite descifrar mensajes ocultos en textos mediante varias técnicas. Todo está contenido en una única clase Esteganografia, la cual organiza sus funciones principales de la siguiente manera:
 - Métodos de apoyo:

@@ -1,0 +1,5 @@
+# Practica-ICC
+
+* NOMBRES Y NÚMEROS DE CUENTA:
+1. García Villa Nelson Osmar - 322190357
+2. Ruiz Ruiz Angel - 425007158

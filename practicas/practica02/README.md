@@ -1,8 +1,5 @@
 # Practica-ICC
 
-García Villa Nelson Osmar - 322190357
-Ruiz Ruiz Angel - 425007158
-
 #Instrucciones para ejecutar el código de la practica 2:
 
 1. Situarse desde la terminal en la carpeta donde se encuentra el codigo.
