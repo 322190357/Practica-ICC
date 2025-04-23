@@ -1,4 +1,4 @@
-# Practica-ICC
+# REPOSITORIO GITHUB
 
 * NOMBRES Y NÚMEROS DE CUENTA:
 1. García Villa Nelson Osmar - 322190357
